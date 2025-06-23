@@ -7,7 +7,7 @@ How to Contact FuboTV Customer Care? A Simple Guide
    :caption: Contents: 
 
 
-.. image:: https://rokutvguide.readthedocs.io/en/latest/_images/care.gif
+.. image:: care.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
